@@ -1,18 +1,13 @@
 #!/usr/bin/env python3
 """Build the "AI Radar" digest and splice it into README.md.
 
-Sources (all free, no user API key required):
-  * GitHub Trending  — most-starred AI/ML repos pushed in the last 7 days
-  * Hacker News      — hottest AI/LLM stories from the last 48h (Algolia API)
-  * Hugging Face     — current trending models
-
-Each source is fetched independently; if one fails the rest still render.
+Source (free, no user API key required):
+  * Hacker News — hottest AI/LLM stories from the last 96h (Algolia API)
 """
 import datetime
 import json
 import os
 import re
-import urllib.parse
 import urllib.request
 
 README = os.path.join(os.path.dirname(__file__), "..", "README.md")
@@ -30,29 +25,6 @@ def _get(url, headers=None):
 def _trunc(s, n):
     s = " ".join((s or "").split())
     return s if len(s) <= n else s[: n - 1] + "…"
-
-
-def github_trending():
-    since = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
-    q = f"topic:llm topic:machine-learning pushed:>{since} stars:>500"
-    url = ("https://api.github.com/search/repositories?q="
-           + urllib.parse.quote(q) + "&sort=stars&order=desc&per_page=5")
-    headers = {"Accept": "application/vnd.github+json"}
-    token = os.environ.get("GITHUB_TOKEN")
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
-    data = _get(url, headers)
-    rows = []
-    for it in data.get("items", [])[:5]:
-        rows.append("| [{full}]({url}) | ⭐ {stars:,} | {lang} |".format(
-            full=it["full_name"], url=it["html_url"],
-            stars=it.get("stargazers_count", 0),
-            lang="`{}`".format(it["language"]) if it.get("language") else "—"))
-    if not rows:
-        return ""
-    out = ["### 🛰 Trending AI repos on GitHub", "",
-           "| Repo | Stars | Lang |", "|---|---|---|", *rows]
-    return "\n".join(out)
 
 
 HN_KEYWORDS = re.compile(
@@ -82,34 +54,14 @@ def hacker_news():
     return "\n".join(["### 📰 Hot AI stories on Hacker News", "", *rows])
 
 
-def huggingface():
-    url = "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=5&full=false"
-    data = _get(url)
-    rows = []
-    for m in data[:5]:
-        mid = m.get("modelId") or m.get("id")
-        task = m.get("pipeline_tag")
-        tag = f" `{task}`" if task else ""
-        rows.append("| [{id}](https://huggingface.co/{id}){tag} | ❤️ {likes:,} | ⬇️ {dl:,} |".format(
-            id=mid, tag=tag, likes=m.get("likes", 0), dl=m.get("downloads", 0)))
-    if not rows:
-        return ""
-    out = ["### 🔥 Trending on Hugging Face", "",
-           "| Model | Likes | Downloads |", "|---|---|---|", *rows]
-    return "\n".join(out)
-
-
 def build():
-    blocks = []
-    for name, fn in (("github", github_trending), ("hn", hacker_news), ("hf", huggingface)):
-        try:
-            b = fn()
-            if b:
-                blocks.append(b)
-        except Exception as e:  # noqa: BLE001 — never let one source break the digest
-            print(f"[warn] source {name} failed: {e}")
+    try:
+        block = hacker_news()
+    except Exception as e:  # noqa: BLE001 — never let a fetch error break the digest
+        print(f"[warn] hacker_news failed: {e}")
+        block = ""
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    body = "\n\n".join(blocks) if blocks else "_No data available right now — will refresh next hour._"
+    body = block if block else "_No data available right now — will refresh next hour._"
     return f"\n{body}\n\n<sub>🕐 Auto-updated hourly · last refresh: {now}</sub>\n"
 
 

@@ -21,8 +21,6 @@ jobs:
         with:
           python-version: "3.12"
       - name: Build digest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_digest.py
       - name: Commit changes
         run: |
