@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👋
+# Hi, I'm Vanya 👋
 
 **AI Engineer / Backend Engineer** — LLM systems · RAG · high-load backends
 
