@@ -31,7 +31,35 @@
 
 <!--DIGEST:START-->
 
-_Digest is refreshed hourly by a GitHub Action._
+### 🛰 Trending AI repos on GitHub
+
+| Repo | Stars | Lang |
+|---|---|---|
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 164,713 | `HTML` |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 162,230 | `Python` |
+| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ⭐ 59,137 | `Jupyter Notebook` |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | ⭐ 48,661 | `JavaScript` |
+| [ray-project/ray](https://github.com/ray-project/ray) | ⭐ 43,117 | `Python` |
+
+### 📰 Hot AI stories on Hacker News
+
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) · ⬆️ 968 · 💬 687
+- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) · ⬆️ 558 · 💬 399
+- [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 536 · 💬 188
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) · ⬆️ 505 · 💬 352
+- [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) · ⬆️ 394 · 💬 208
+
+### 🔥 Trending on Hugging Face
+
+| Model | Likes | Downloads |
+|---|---|---|
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,440 | ⬇️ 1,464,047 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,383 | ⬇️ 208,920 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,705 | ⬇️ 988,379 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 701 | ⬇️ 359,659 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 1,004 | ⬇️ 342,752 |
+
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-04 18:10 UTC</sub>
 
 <!--DIGEST:END-->
 
