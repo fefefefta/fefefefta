@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 543 · 💬 194
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) · ⬆️ 506 · 💬 353
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 398 · 💬 180
+- [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 543 · 💬 195
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) · ⬆️ 506 · 💬 354
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 398 · 💬 181
 - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) · ⬆️ 395 · 💬 209
-- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 363 · 💬 98
+- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 365 · 💬 99
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-05 08:14 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-05 10:27 UTC</sub>
 
 <!--DIGEST:END-->
 
