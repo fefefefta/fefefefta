@@ -18,11 +18,11 @@
 
 - [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 550 · 💬 199
 - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 408 · 💬 182
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 399 · 💬 363
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 402 · 💬 371
 - [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 372 · 💬 106
 - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) · ⬆️ 367 · 💬 151
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 20:59 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 22:36 UTC</sub>
 
 <!--DIGEST:END-->
 
