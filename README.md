@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 549 · 💬 197
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 407 · 💬 182
-- [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) · ⬆️ 398 · 💬 209
-- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 371 · 💬 104
+- [Protect your right to run local AI](https://righttointelligence.org/) · ⬆️ 550 · 💬 199
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 408 · 💬 182
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 383 · 💬 335
+- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 372 · 💬 104
 - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) · ⬆️ 366 · 💬 148
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 12:57 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 16:29 UTC</sub>
 
 <!--DIGEST:END-->
 
