@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 506 · 💬 301
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 410 · 💬 393
 - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) · ⬆️ 408 · 💬 182
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 405 · 💬 393
-- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 381 · 💬 237
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) · ⬆️ 393 · 💬 150
 - [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) · ⬆️ 374 · 💬 106
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) · ⬆️ 367 · 💬 151
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-07 08:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-07 12:08 UTC</sub>
 
 <!--DIGEST:END-->
 
