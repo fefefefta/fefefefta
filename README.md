@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 664 · 💬 449
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) · ⬆️ 443 · 💬 186
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 411 · 💬 397
-- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) · ⬆️ 371 · 💬 255
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) · ⬆️ 369 · 💬 151
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 667 · 💬 451
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) · ⬆️ 448 · 💬 190
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) · ⬆️ 412 · 💬 397
+- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 402 · 💬 66
+- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) · ⬆️ 371 · 💬 256
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 00:10 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 03:41 UTC</sub>
 
 <!--DIGEST:END-->
 
