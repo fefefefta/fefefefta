@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 682 · 💬 466
-- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 610 · 💬 104
-- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 479 · 💬 184
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 683 · 💬 466
+- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 612 · 💬 104
+- [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 525 · 💬 363
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 492 · 💬 190
 - [A global workspace in language models](https://www.anthropic.com/research/global-workspace) · ⬆️ 454 · 💬 195
-- [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 449 · 💬 308
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 20:36 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 22:16 UTC</sub>
 
 <!--DIGEST:END-->
 
