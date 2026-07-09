@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 687 · 💬 449
+- [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 717 · 💬 478
 - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 685 · 💬 466
-- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 624 · 💬 104
-- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 598 · 💬 815
-- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 516 · 💬 195
+- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 663 · 💬 1036
+- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 629 · 💬 104
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 521 · 💬 196
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-09 07:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-09 11:17 UTC</sub>
 
 <!--DIGEST:END-->
 
