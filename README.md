@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1428 · 💬 1003
-- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 766 · 💬 1452
+- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1476 · 💬 1042
+- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 767 · 💬 1459
 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 745 · 💬 520
-- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 688 · 💬 468
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · ⬆️ 689 · 💬 468
 - [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 639 · 💬 107
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 14:49 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 17:05 UTC</sub>
 
 <!--DIGEST:END-->
 
