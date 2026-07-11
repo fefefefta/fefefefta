@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1531 · 💬 1088
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1313 · 💬 710
+- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1534 · 💬 1089
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1360 · 💬 742
 - [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 771 · 💬 1473
 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 747 · 💬 526
-- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 640 · 💬 110
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 538 · 💬 204
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-11 15:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-11 16:09 UTC</sub>
 
 <!--DIGEST:END-->
 
