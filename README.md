@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1515 · 💬 1071
-- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 768 · 💬 1463
+- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 769 · 💬 1464
 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 745 · 💬 522
 - [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) · ⬆️ 639 · 💬 110
 - [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 536 · 💬 204
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 23:12 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-11 00:08 UTC</sub>
 
 <!--DIGEST:END-->
 
