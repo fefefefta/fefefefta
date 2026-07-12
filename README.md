@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1587 · 💬 894
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1542 · 💬 1093
-- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 771 · 💬 1483
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1598 · 💬 906
+- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1542 · 💬 1094
+- [Grok 4.5](https://x.ai/news/grok-4-5) · ⬆️ 771 · 💬 1484
 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/) · ⬆️ 747 · 💬 526
-- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · ⬆️ 538 · 💬 204
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) · ⬆️ 515 · 💬 425
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-12 03:53 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-12 06:45 UTC</sub>
 
 <!--DIGEST:END-->
 
