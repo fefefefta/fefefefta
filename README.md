@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1640 · 💬 945
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1553 · 💬 1102
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 731 · 💬 327
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 613 · 💬 329
-- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) · ⬆️ 532 · 💬 435
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · ⬆️ 1643 · 💬 950
+- [GPT-5.6](https://openai.com/index/gpt-5-6/) · ⬆️ 1554 · 💬 1102
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1002 · 💬 497
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 874 · 💬 379
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 666 · 💬 348
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 11:27 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 15:09 UTC</sub>
 
 <!--DIGEST:END-->
 
