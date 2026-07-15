@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1525 · 💬 777
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 1080 · 💬 454
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 698 · 💬 389
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 668 · 💬 239
-- [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · ⬆️ 578 · 💬 590
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 1081 · 💬 454
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 698 · 💬 390
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 673 · 💬 240
+- [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · ⬆️ 581 · 💬 592
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-15 17:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-15 19:34 UTC</sub>
 
 <!--DIGEST:END-->
 
