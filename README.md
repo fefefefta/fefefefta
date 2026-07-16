@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1527 · 💬 777
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 1082 · 💬 454
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 1082 · 💬 455
 - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 698 · 💬 390
 - [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 678 · 💬 241
-- [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 597 · 💬 279
+- [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 599 · 💬 279
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-15 23:10 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 00:07 UTC</sub>
 
 <!--DIGEST:END-->
 
