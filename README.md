@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1530 · 💬 782
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1146 · 💬 278
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1532 · 💬 782
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1157 · 💬 280
 - [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) · ⬆️ 1083 · 💬 456
 - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · ⬆️ 699 · 💬 391
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 689 · 💬 243
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 690 · 💬 243
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 16:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 18:18 UTC</sub>
 
 <!--DIGEST:END-->
 
