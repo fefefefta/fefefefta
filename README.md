@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · ⬆️ 1536 · 💬 782
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1183 · 💬 281
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1188 · 💬 281
 - [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 694 · 💬 249
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 660 · 💬 291
 - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · ⬆️ 602 · 💬 607
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 03:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 06:25 UTC</sub>
 
 <!--DIGEST:END-->
 
