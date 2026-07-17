@@ -22,7 +22,7 @@
 - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · ⬆️ 604 · 💬 609
 - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai) · ⬆️ 521 · 💬 477
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 21:06 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 22:05 UTC</sub>
 
 <!--DIGEST:END-->
 
