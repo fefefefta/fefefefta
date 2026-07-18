@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1206 · 💬 289
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 697 · 💬 250
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 698 · 💬 250
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 664 · 💬 292
 - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · ⬆️ 604 · 💬 609
 - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai) · ⬆️ 521 · 💬 477
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 23:06 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 00:07 UTC</sub>
 
 <!--DIGEST:END-->
 
