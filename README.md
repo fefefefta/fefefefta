@@ -18,11 +18,11 @@
 
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1212 · 💬 292
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 665 · 💬 293
-- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 539 · 💬 365
-- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 474 · 💬 346
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 461 · 💬 294
+- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 541 · 💬 365
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 475 · 💬 305
+- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 474 · 💬 350
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 22:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 23:08 UTC</sub>
 
 <!--DIGEST:END-->
 
