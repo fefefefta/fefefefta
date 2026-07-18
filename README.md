@@ -19,10 +19,10 @@
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1212 · 💬 292
 - [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) · ⬆️ 699 · 💬 250
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) · ⬆️ 665 · 💬 293
-- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 532 · 💬 357
-- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 465 · 💬 342
+- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 533 · 💬 359
+- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 469 · 💬 342
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 16:09 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 17:12 UTC</sub>
 
 <!--DIGEST:END-->
 
