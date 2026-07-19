@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) · ⬆️ 1216 · 💬 291
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 579 · 💬 378
-- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 556 · 💬 374
-- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 553 · 💬 253
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 580 · 💬 380
+- [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 557 · 💬 374
+- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 554 · 💬 256
 - [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 480 · 💬 352
+- [Why do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) · ⬆️ 438 · 💬 145
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-19 18:07 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-19 19:29 UTC</sub>
 
 <!--DIGEST:END-->
 
