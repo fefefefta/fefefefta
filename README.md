@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 583 · 💬 383
-- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 560 · 💬 259
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 584 · 💬 384
+- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 570 · 💬 260
 - [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 559 · 💬 376
-- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 480 · 💬 355
-- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) · ⬆️ 444 · 💬 524
+- [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 483 · 💬 355
+- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) · ⬆️ 450 · 💬 550
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 00:09 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 04:01 UTC</sub>
 
 <!--DIGEST:END-->
 
