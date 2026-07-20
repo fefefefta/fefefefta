@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 584 · 💬 384
-- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 570 · 💬 260
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 588 · 💬 386
+- [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 573 · 💬 260
 - [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · ⬆️ 559 · 💬 376
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) · ⬆️ 487 · 💬 650
 - [The state of open source AI](https://stateofopensource.ai/) · ⬆️ 483 · 💬 355
-- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) · ⬆️ 450 · 💬 550
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 04:01 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 07:27 UTC</sub>
 
 <!--DIGEST:END-->
 
