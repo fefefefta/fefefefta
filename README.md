@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · ⬆️ 877 · 💬 711
-- [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566) · ⬆️ 644 · 💬 414
+- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · ⬆️ 923 · 💬 756
+- [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566) · ⬆️ 649 · 💬 419
 - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · ⬆️ 597 · 💬 390
-- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) · ⬆️ 594 · 💬 807
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) · ⬆️ 594 · 💬 811
 - [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · ⬆️ 591 · 💬 264
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 23:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-21 00:07 UTC</sub>
 
 <!--DIGEST:END-->
 
