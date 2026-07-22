@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · ⬆️ 1528 · 💬 1083
-- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · ⬆️ 1230 · 💬 928
-- [Advertise in ChatGPT](https://ads.openai.com/) · ⬆️ 1049 · 💬 820
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · ⬆️ 1532 · 💬 1086
+- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · ⬆️ 1231 · 💬 928
+- [Advertise in ChatGPT](https://ads.openai.com/) · ⬆️ 1053 · 💬 821
 - [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) · ⬆️ 976 · 💬 882
 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) · ⬆️ 849 · 💬 430
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 22:14 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 23:15 UTC</sub>
 
 <!--DIGEST:END-->
 
