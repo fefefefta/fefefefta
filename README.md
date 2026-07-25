@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1723 · 💬 1236
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · ⬆️ 1623 · 💬 1155
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1058 · 💬 870
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1728 · 💬 1248
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1059 · 💬 870
 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) · ⬆️ 874 · 💬 447
-- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 684 · 💬 375
+- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 685 · 💬 375
+- [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) · ⬆️ 680 · 💬 242
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-25 19:32 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-25 21:07 UTC</sub>
 
 <!--DIGEST:END-->
 
