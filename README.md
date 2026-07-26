@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1762 · 💬 1311
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1065 · 💬 881
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1763 · 💬 1315
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1065 · 💬 886
 - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 691 · 💬 375
-- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 650 · 💬 315
+- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 651 · 💬 315
 - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/) · ⬆️ 581 · 💬 447
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 21:09 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 22:10 UTC</sub>
 
 <!--DIGEST:END-->
 
