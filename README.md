@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1756 · 💬 1298
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1063 · 💬 880
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1759 · 💬 1299
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1065 · 💬 880
 - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 690 · 💬 375
 - [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) · ⬆️ 681 · 💬 242
 - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 650 · 💬 314
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 15:19 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 17:13 UTC</sub>
 
 <!--DIGEST:END-->
 
