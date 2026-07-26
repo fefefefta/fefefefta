@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1735 · 💬 1258
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1060 · 💬 872
-- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 685 · 💬 375
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1741 · 💬 1275
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1061 · 💬 872
+- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · ⬆️ 686 · 💬 375
 - [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) · ⬆️ 680 · 💬 242
-- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 646 · 💬 310
+- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 647 · 💬 312
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 00:11 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 03:52 UTC</sub>
 
 <!--DIGEST:END-->
 
