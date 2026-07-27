@@ -22,7 +22,7 @@
 - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 651 · 💬 315
 - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/) · ⬆️ 581 · 💬 447
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 23:10 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 00:10 UTC</sub>
 
 <!--DIGEST:END-->
 
