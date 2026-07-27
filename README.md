@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1773 · 💬 1320
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · ⬆️ 1067 · 💬 887
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1774 · 💬 1321
 - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 653 · 💬 315
+- [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 628 · 💬 374
 - [Flux 3](https://bfl.ai/blog/flux-3) · ⬆️ 570 · 💬 133
 - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) · ⬆️ 539 · 💬 295
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 15:10 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 17:06 UTC</sub>
 
 <!--DIGEST:END-->
 
