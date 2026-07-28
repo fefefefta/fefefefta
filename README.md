@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) · ⬆️ 1777 · 💬 1324
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 975 · 💬 1411
-- [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 771 · 💬 489
-- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · ⬆️ 656 · 💬 318
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1058 · 💬 1531
+- [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 772 · 💬 492
 - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) · ⬆️ 540 · 💬 295
+- [How is the Bun rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) · ⬆️ 479 · 💬 377
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 12:11 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 14:33 UTC</sub>
 
 <!--DIGEST:END-->
 
