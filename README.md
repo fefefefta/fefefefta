@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1125 · 💬 1639
-- [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 776 · 💬 497
-- [How is the Bun rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) · ⬆️ 483 · 💬 380
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) · ⬆️ 460 · 💬 398
-- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) · ⬆️ 410 · 💬 320
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1134 · 💬 1658
+- [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 778 · 💬 501
+- [How is the Bun rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) · ⬆️ 484 · 💬 381
+- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) · ⬆️ 460 · 💬 400
+- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) · ⬆️ 411 · 💬 321
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 18:42 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 20:33 UTC</sub>
 
 <!--DIGEST:END-->
 
