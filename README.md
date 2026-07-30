@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1169 · 💬 1734
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1170 · 💬 1737
 - [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565) · ⬆️ 792 · 💬 510
-- [Codex Security](https://github.com/openai/codex-security) · ⬆️ 587 · 💬 224
+- [Codex Security](https://github.com/openai/codex-security) · ⬆️ 589 · 💬 225
 - [How is the Bun rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) · ⬆️ 493 · 💬 384
-- [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) · ⬆️ 404 · 💬 118
+- [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) · ⬆️ 404 · 💬 119
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 03:24 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 06:39 UTC</sub>
 
 <!--DIGEST:END-->
 
