@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) · ⬆️ 1175 · 💬 1743
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) · ⬆️ 608 · 💬 315
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 606 · 💬 494
+- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) · ⬆️ 609 · 💬 316
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 606 · 💬 502
 - [Codex Security](https://github.com/openai/codex-security) · ⬆️ 596 · 💬 227
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 589 · 💬 391
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 591 · 💬 391
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-31 16:55 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-31 18:43 UTC</sub>
 
 <!--DIGEST:END-->
 
