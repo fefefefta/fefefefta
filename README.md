@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) · ⬆️ 610 · 💬 316
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 609 · 💬 511
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 599 · 💬 391
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 609 · 💬 515
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 600 · 💬 394
 - [Codex Security](https://github.com/openai/codex-security) · ⬆️ 596 · 💬 227
-- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 520 · 💬 288
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 537 · 💬 293
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-01 00:11 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-01 03:47 UTC</sub>
 
 <!--DIGEST:END-->
 
