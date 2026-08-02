@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 657 · 💬 155
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 614 · 💬 535
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 658 · 💬 156
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 614 · 💬 536
 - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) · ⬆️ 614 · 💬 319
 - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 399
 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 584 · 💬 311
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-02 13:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-02 15:17 UTC</sub>
 
 <!--DIGEST:END-->
 
