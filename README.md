@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 934 · 💬 482
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 998 · 💬 534
+- [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 672 · 💬 314
 - [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 669 · 💬 165
-- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 617 · 💬 232
 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 588 · 💬 312
-- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) · ⬆️ 575 · 💬 599
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) · ⬆️ 576 · 💬 599
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 17:18 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 19:54 UTC</sub>
 
 <!--DIGEST:END-->
 
