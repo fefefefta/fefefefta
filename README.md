@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 852 · 💬 431
-- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 669 · 💬 164
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 617 · 💬 548
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 402
-- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 586 · 💬 312
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 934 · 💬 482
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 669 · 💬 165
+- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 617 · 💬 232
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 588 · 💬 312
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) · ⬆️ 575 · 💬 599
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 15:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 17:18 UTC</sub>
 
 <!--DIGEST:END-->
 
