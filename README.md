@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 665 · 💬 161
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 616 · 💬 540
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 399
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 617 · 💬 541
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 400
 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 585 · 💬 311
-- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) · ⬆️ 572 · 💬 599
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) · ⬆️ 573 · 💬 598
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 03:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 07:43 UTC</sub>
 
 <!--DIGEST:END-->
 
