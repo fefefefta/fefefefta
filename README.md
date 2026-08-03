@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 666 · 💬 161
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 652 · 💬 326
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 617 · 💬 545
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 400
-- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 585 · 💬 311
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 852 · 💬 431
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) · ⬆️ 669 · 💬 164
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · ⬆️ 617 · 💬 548
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · ⬆️ 603 · 💬 402
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) · ⬆️ 586 · 💬 312
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 11:41 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 15:13 UTC</sub>
 
 <!--DIGEST:END-->
 
