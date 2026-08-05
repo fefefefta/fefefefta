@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1320 · 💬 548
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 1097 · 💬 599
-- [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 727 · 💬 432
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1333 · 💬 554
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 1098 · 💬 603
+- [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 740 · 💬 437
 - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 721 · 💬 370
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) · ⬆️ 613 · 💬 908
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) · ⬆️ 614 · 💬 913
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-05 00:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-05 03:31 UTC</sub>
 
 <!--DIGEST:END-->
 
