@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1382 · 💬 564
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1384 · 💬 564
 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) · ⬆️ 1110 · 💬 608
-- [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 781 · 💬 460
+- [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 784 · 💬 460
 - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 725 · 💬 373
 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) · ⬆️ 621 · 💬 925
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-06 00:09 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-06 03:33 UTC</sub>
 
 <!--DIGEST:END-->
 
