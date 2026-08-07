@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1399 · 💬 566
-- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · ⬆️ 834 · 💬 898
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1400 · 💬 566
+- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · ⬆️ 834 · 💬 901
 - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 792 · 💬 465
 - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · ⬆️ 726 · 💬 375
-- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) · ⬆️ 654 · 💬 322
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 669 · 💬 509
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 09:14 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 10:09 UTC</sub>
 
 <!--DIGEST:END-->
 
