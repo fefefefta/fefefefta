@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) · ⬆️ 1402 · 💬 568
-- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · ⬆️ 843 · 💬 911
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 804 · 💬 610
+- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · ⬆️ 844 · 💬 914
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 825 · 💬 624
 - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · ⬆️ 793 · 💬 465
-- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) · ⬆️ 658 · 💬 329
+- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) · ⬆️ 658 · 💬 330
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 17:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 17:59 UTC</sub>
 
 <!--DIGEST:END-->
 
