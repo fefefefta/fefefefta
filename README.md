@@ -20,9 +20,9 @@
 - [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · ⬆️ 854 · 💬 928
 - [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) · ⬆️ 659 · 💬 331
 - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 544 · 💬 345
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 516 · 💬 374
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 517 · 💬 374
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-08 22:44 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-08 23:42 UTC</sub>
 
 <!--DIGEST:END-->
 
