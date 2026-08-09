@@ -22,7 +22,7 @@
 - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 545 · 💬 348
 - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 526 · 💬 372
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 08:00 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 09:00 UTC</sub>
 
 <!--DIGEST:END-->
 
