@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 932 · 💬 702
-- [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 545 · 💬 348
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 532 · 💬 375
-- [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) · ⬆️ 440 · 💬 522
-- [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) · ⬆️ 432 · 💬 122
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 933 · 💬 702
+- [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 545 · 💬 350
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 532 · 💬 376
+- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) · ⬆️ 431 · 💬 127
+- [Software development with AI is starting to feel like cooking steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) · ⬆️ 416 · 💬 418
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 17:45 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 18:58 UTC</sub>
 
 <!--DIGEST:END-->
 
