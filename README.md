@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 937 · 💬 708
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 772 · 💬 506
-- [Meta Muse Glimmer – Open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 691 · 💬 386
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 938 · 💬 708
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 776 · 💬 513
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 762 · 💬 420
 - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 546 · 💬 353
 - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 535 · 💬 380
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 17:06 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 18:01 UTC</sub>
 
 <!--DIGEST:END-->
 
