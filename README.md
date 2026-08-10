@@ -19,10 +19,10 @@
 - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · ⬆️ 937 · 💬 704
 - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index) · ⬆️ 545 · 💬 352
 - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · ⬆️ 534 · 💬 377
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 443 · 💬 257
-- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) · ⬆️ 436 · 💬 129
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 514 · 💬 290
+- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) · ⬆️ 441 · 💬 129
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 02:31 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 04:51 UTC</sub>
 
 <!--DIGEST:END-->
 
