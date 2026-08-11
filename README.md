@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1164 · 💬 631
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 812 · 💬 532
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 743 · 💬 776
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 673 · 💬 377
-- [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) · ⬆️ 604 · 💬 566
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1166 · 💬 631
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 813 · 💬 532
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 792 · 💬 801
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 674 · 💬 377
+- [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) · ⬆️ 619 · 💬 577
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-11 18:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-11 19:17 UTC</sub>
 
 <!--DIGEST:END-->
 
