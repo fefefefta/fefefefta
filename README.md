@@ -18,11 +18,11 @@
 
 - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1198 · 💬 637
 - [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 926 · 💬 963
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 820 · 💬 542
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 688 · 💬 393
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 680 · 💬 299
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 820 · 💬 543
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 695 · 💬 250
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 689 · 💬 393
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 22:58 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 23:56 UTC</sub>
 
 <!--DIGEST:END-->
 
