@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1195 · 💬 637
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 913 · 💬 947
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 818 · 💬 542
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 916 · 💬 949
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 819 · 💬 542
 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 685 · 💬 393
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 670 · 💬 295
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 671 · 💬 295
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 15:12 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 16:07 UTC</sub>
 
 <!--DIGEST:END-->
 
