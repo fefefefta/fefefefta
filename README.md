@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1191 · 💬 637
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 908 · 💬 921
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 817 · 💬 540
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 684 · 💬 392
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 640 · 💬 287
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1194 · 💬 637
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 911 · 💬 939
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · ⬆️ 817 · 💬 541
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) · ⬆️ 685 · 💬 392
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 657 · 💬 294
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 11:56 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 13:43 UTC</sub>
 
 <!--DIGEST:END-->
 
