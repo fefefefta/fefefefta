@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1199 · 💬 637
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1014 · 💬 439
-- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 948 · 💬 871
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 932 · 💬 969
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 692 · 💬 302
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1016 · 💬 439
+- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 955 · 💬 879
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 933 · 💬 969
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 693 · 💬 302
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 19:17 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 21:00 UTC</sub>
 
 <!--DIGEST:END-->
 
