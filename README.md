@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · ⬆️ 1202 · 💬 638
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1021 · 💬 442
-- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 971 · 💬 901
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 933 · 💬 975
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 803 · 💬 425
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1022 · 💬 443
+- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 973 · 💬 902
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) · ⬆️ 933 · 💬 976
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 841 · 💬 434
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) · ⬆️ 694 · 💬 306
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-14 08:36 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-14 10:14 UTC</sub>
 
 <!--DIGEST:END-->
 
