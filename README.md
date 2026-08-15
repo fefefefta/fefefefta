@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1083 · 💬 526
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1088 · 💬 528
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1031 · 💬 446
-- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 987 · 💬 923
+- [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · ⬆️ 988 · 💬 923
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 951 · 💬 483
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 699 · 💬 272
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-15 07:42 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-15 08:43 UTC</sub>
 
 <!--DIGEST:END-->
 
