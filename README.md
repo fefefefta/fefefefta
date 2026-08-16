@@ -20,9 +20,9 @@
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1034 · 💬 451
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 965 · 💬 491
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 710 · 💬 276
-- [Grok 4.6](https://x.ai/news/grok-4-6) · ⬆️ 630 · 💬 614
+- [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 539 · 💬 464
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 14:35 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 15:33 UTC</sub>
 
 <!--DIGEST:END-->
 
