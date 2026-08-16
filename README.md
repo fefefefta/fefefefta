@@ -19,10 +19,10 @@
 - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1147 · 💬 569
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · ⬆️ 1034 · 💬 451
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 965 · 💬 491
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 709 · 💬 276
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 710 · 💬 276
 - [Grok 4.6](https://x.ai/news/grok-4-6) · ⬆️ 630 · 💬 614
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 13:43 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 14:35 UTC</sub>
 
 <!--DIGEST:END-->
 
