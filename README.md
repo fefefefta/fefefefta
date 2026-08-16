@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1148 · 💬 570
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 965 · 💬 491
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 710 · 💬 276
-- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 548 · 💬 464
-- [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) · ⬆️ 490 · 💬 283
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1150 · 💬 570
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 966 · 💬 491
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 711 · 💬 276
+- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 556 · 💬 464
+- [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) · ⬆️ 491 · 💬 283
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 16:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-16 17:32 UTC</sub>
 
 <!--DIGEST:END-->
 
