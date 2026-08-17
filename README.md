@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1152 · 💬 573
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1154 · 💬 573
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 966 · 💬 491
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 711 · 💬 277
-- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 592 · 💬 487
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 544 · 💬 228
+- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 600 · 💬 489
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 563 · 💬 234
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 01:53 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 03:11 UTC</sub>
 
 <!--DIGEST:END-->
 
