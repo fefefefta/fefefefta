@@ -19,10 +19,10 @@
 - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) · ⬆️ 1154 · 💬 573
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · ⬆️ 966 · 💬 491
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · ⬆️ 712 · 💬 277
-- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 602 · 💬 491
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 587 · 💬 241
+- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 605 · 💬 492
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 604 · 💬 245
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 04:55 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 05:48 UTC</sub>
 
 <!--DIGEST:END-->
 
