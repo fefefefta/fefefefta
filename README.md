@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1083 · 💬 679
-- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1034 · 💬 793
-- [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) · ⬆️ 817 · 💬 726
+- [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1084 · 💬 680
+- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1036 · 💬 796
+- [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) · ⬆️ 817 · 💬 727
 - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 756 · 💬 283
-- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 629 · 💬 509
+- [AI isn’t outthinking mathematicians, it’s out-remembering them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · ⬆️ 629 · 💬 510
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-19 15:43 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-19 16:44 UTC</sub>
 
 <!--DIGEST:END-->
 
