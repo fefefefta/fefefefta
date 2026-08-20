@@ -18,11 +18,11 @@
 
 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1097 · 💬 688
 - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1051 · 💬 832
-- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 970 · 💬 526
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 940 · 💬 477
+- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 979 · 💬 529
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 941 · 💬 479
 - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) · ⬆️ 821 · 💬 727
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 20:43 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 21:41 UTC</sub>
 
 <!--DIGEST:END-->
 
