@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1091 · 💬 687
-- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1045 · 💬 825
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 869 · 💬 448
+- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1046 · 💬 825
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 901 · 💬 460
 - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) · ⬆️ 818 · 💬 727
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) · ⬆️ 758 · 💬 285
+- [Don't Paste the AI, please](https://dontpastetheai.com/) · ⬆️ 652 · 💬 316
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 11:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 13:08 UTC</sub>
 
 <!--DIGEST:END-->
 
