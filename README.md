@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1027 · 💬 574
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 952 · 💬 495
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 698 · 💬 2
+- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1028 · 💬 574
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 953 · 💬 495
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 699 · 💬 2
 - [Google has acquired the data of failed US airline Spirit](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · ⬆️ 614 · 💬 419
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 574 · 💬 113
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 575 · 💬 113
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 22:38 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 23:35 UTC</sub>
 
 <!--DIGEST:END-->
 
