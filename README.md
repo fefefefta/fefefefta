@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1054 · 💬 863
-- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1026 · 💬 573
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 952 · 💬 494
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 696 · 💬 2
-- [GPT-5.6 Sol Pricing Cut by 50% on OpenRouter](https://openrouter.ai/openai/gpt-5.6-sol) · ⬆️ 633 · 💬 448
+- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1027 · 💬 574
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 952 · 💬 495
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 697 · 💬 2
+- [Google has acquired the data of failed US airline Spirit](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · ⬆️ 614 · 💬 419
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 574 · 💬 113
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 20:38 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 21:36 UTC</sub>
 
 <!--DIGEST:END-->
 
