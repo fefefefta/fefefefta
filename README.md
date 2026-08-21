@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1097 · 💬 688
-- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1051 · 💬 835
-- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 983 · 💬 535
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 941 · 💬 479
-- [GPT-5.6 Sol Pricing Cut by 50% on OpenRouter](https://openrouter.ai/openai/gpt-5.6-sol) · ⬆️ 631 · 💬 448
+- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1052 · 💬 838
+- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 989 · 💬 541
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 943 · 💬 479
+- [GPT-5.6 Sol Pricing Cut by 50% on OpenRouter](https://openrouter.ai/openai/gpt-5.6-sol) · ⬆️ 632 · 💬 448
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 23:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 01:55 UTC</sub>
 
 <!--DIGEST:END-->
 
