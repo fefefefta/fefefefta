@@ -18,11 +18,11 @@
 
 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · ⬆️ 1101 · 💬 689
 - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) · ⬆️ 1053 · 💬 855
-- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1021 · 💬 568
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 950 · 💬 489
+- [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1023 · 💬 570
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 951 · 💬 489
 - [GPT-5.6 Sol Pricing Cut by 50% on OpenRouter](https://openrouter.ai/openai/gpt-5.6-sol) · ⬆️ 632 · 💬 448
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 13:56 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 14:51 UTC</sub>
 
 <!--DIGEST:END-->
 
