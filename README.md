@@ -18,11 +18,11 @@
 
 - [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1040 · 💬 578
 - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 955 · 💬 496
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) · ⬆️ 591 · 💬 879
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) · ⬆️ 594 · 💬 882
 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 585 · 💬 116
-- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 464 · 💬 473
+- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 468 · 💬 476
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 18:47 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 19:32 UTC</sub>
 
 <!--DIGEST:END-->
 
