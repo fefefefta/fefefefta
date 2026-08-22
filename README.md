@@ -18,11 +18,11 @@
 
 - [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1039 · 💬 578
 - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 954 · 💬 495
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 703 · 💬 2
-- [Google has acquired the data of failed US airline Spirit](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · ⬆️ 615 · 💬 420
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 704 · 💬 2
 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 581 · 💬 114
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) · ⬆️ 567 · 💬 855
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 09:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 10:38 UTC</sub>
 
 <!--DIGEST:END-->
 
