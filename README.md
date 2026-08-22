@@ -20,9 +20,9 @@
 - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 953 · 💬 495
 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) · ⬆️ 703 · 💬 2
 - [Google has acquired the data of failed US airline Spirit](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · ⬆️ 614 · 💬 419
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 577 · 💬 113
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 578 · 💬 113
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 03:53 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 04:47 UTC</sub>
 
 <!--DIGEST:END-->
 
