@@ -22,7 +22,7 @@
 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 589 · 💬 117
 - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 487 · 💬 492
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-23 15:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-23 16:40 UTC</sub>
 
 <!--DIGEST:END-->
 
