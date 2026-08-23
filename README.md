@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Don't paste the AI, please](https://dontpastetheai.com/) · ⬆️ 1041 · 💬 579
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 956 · 💬 496
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · ⬆️ 956 · 💬 497
 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) · ⬆️ 615 · 💬 894
 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 588 · 💬 117
-- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 478 · 💬 483
+- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 478 · 💬 484
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-23 05:43 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-23 06:58 UTC</sub>
 
 <!--DIGEST:END-->
 
