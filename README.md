@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) · ⬆️ 623 · 💬 898
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) · ⬆️ 589 · 💬 117
 - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 487 · 💬 492
 - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) · ⬆️ 417 · 💬 171
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) · ⬆️ 379 · 💬 209
+- [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md) · ⬆️ 352 · 💬 235
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 11:41 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 13:10 UTC</sub>
 
 <!--DIGEST:END-->
 
