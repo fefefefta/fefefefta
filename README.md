@@ -22,7 +22,7 @@
 - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) · ⬆️ 417 · 💬 171
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) · ⬆️ 379 · 💬 209
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 09:02 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 10:01 UTC</sub>
 
 <!--DIGEST:END-->
 
