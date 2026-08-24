@@ -22,7 +22,7 @@
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) · ⬆️ 379 · 💬 209
 - [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md) · ⬆️ 352 · 💬 235
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 14:57 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 15:53 UTC</sub>
 
 <!--DIGEST:END-->
 
