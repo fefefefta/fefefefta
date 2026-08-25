@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 779 · 💬 685
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 781 · 💬 686
 - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) · ⬆️ 686 · 💬 289
-- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) · ⬆️ 540 · 💬 620
-- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 510 · 💬 499
-- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 505 · 💬 506
+- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) · ⬆️ 544 · 💬 623
+- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 511 · 💬 502
+- [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) · ⬆️ 506 · 💬 506
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 07:56 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 08:57 UTC</sub>
 
 <!--DIGEST:END-->
 
