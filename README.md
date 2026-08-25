@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 794 · 💬 694
-- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) · ⬆️ 687 · 💬 290
-- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) · ⬆️ 578 · 💬 649
-- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 526 · 💬 518
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 798 · 💬 695
+- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) · ⬆️ 688 · 💬 290
+- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) · ⬆️ 581 · 💬 652
+- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 530 · 💬 520
 - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) · ⬆️ 506 · 💬 206
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 15:02 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 15:57 UTC</sub>
 
 <!--DIGEST:END-->
 
