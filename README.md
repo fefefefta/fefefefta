@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · ⬆️ 963 · 💬 902
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 807 · 💬 698
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · ⬆️ 994 · 💬 931
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) · ⬆️ 808 · 💬 698
 - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) · ⬆️ 693 · 💬 291
 - [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) · ⬆️ 592 · 💬 673
-- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 540 · 💬 535
+- [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · ⬆️ 542 · 💬 536
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 01:56 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 03:16 UTC</sub>
 
 <!--DIGEST:END-->
 
