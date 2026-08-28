@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · ⬆️ 1302 · 💬 1282
-- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) · ⬆️ 1104 · 💬 554
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 931 · 💬 639
-- [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next) · ⬆️ 687 · 💬 231
-- [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) · ⬆️ 582 · 💬 377
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · ⬆️ 1303 · 💬 1285
+- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) · ⬆️ 1114 · 💬 561
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 978 · 💬 675
+- [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next) · ⬆️ 694 · 💬 232
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 668 · 💬 300
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 23:47 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-28 11:19 UTC</sub>
 
 <!--DIGEST:END-->
 
