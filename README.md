@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) · ⬆️ 1126 · 💬 574
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 1018 · 💬 709
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 1019 · 💬 710
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 788 · 💬 482
 - [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 783 · 💬 345
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 759 · 💬 467
 - [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next) · ⬆️ 698 · 💬 233
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-29 19:23 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-29 22:38 UTC</sub>
 
 <!--DIGEST:END-->
 
