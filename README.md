@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 1024 · 💬 713
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 826 · 💬 516
-- [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 794 · 💬 346
-- [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/) · ⬆️ 689 · 💬 322
-- [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · ⬆️ 626 · 💬 427
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 1026 · 💬 714
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 826 · 💬 520
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 795 · 💬 347
+- [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/) · ⬆️ 690 · 💬 322
+- [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · ⬆️ 628 · 💬 430
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 17:26 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 21:01 UTC</sub>
 
 <!--DIGEST:END-->
 
