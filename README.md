@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) · ⬆️ 1026 · 💬 714
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 830 · 💬 524
-- [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 795 · 💬 347
-- [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/) · ⬆️ 692 · 💬 322
-- [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · ⬆️ 629 · 💬 431
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 834 · 💬 526
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived) · ⬆️ 795 · 💬 348
+- [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/) · ⬆️ 694 · 💬 326
+- [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · ⬆️ 633 · 💬 432
+- [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/) · ⬆️ 521 · 💬 151
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 23:27 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-31 05:28 UTC</sub>
 
 <!--DIGEST:END-->
 
