@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 844 · 💬 537
-- [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/) · ⬆️ 523 · 💬 151
-- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 512 · 💬 477
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 844 · 💬 538
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 513 · 💬 478
 - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) · ⬆️ 476 · 💬 120
-- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · ⬆️ 357 · 💬 113
+- [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · ⬆️ 411 · 💬 456
+- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · ⬆️ 370 · 💬 116
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 05:03 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 10:03 UTC</sub>
 
 <!--DIGEST:END-->
 
