@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 844 · 💬 537
-- [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · ⬆️ 644 · 💬 434
 - [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/) · ⬆️ 523 · 💬 151
-- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 510 · 💬 476
-- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) · ⬆️ 475 · 💬 120
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 512 · 💬 477
+- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) · ⬆️ 476 · 💬 120
+- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · ⬆️ 357 · 💬 113
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-31 23:49 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 05:03 UTC</sub>
 
 <!--DIGEST:END-->
 
