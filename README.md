@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 844 · 💬 539
-- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 513 · 💬 481
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) · ⬆️ 845 · 💬 539
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 514 · 💬 483
+- [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · ⬆️ 483 · 💬 578
 - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) · ⬆️ 476 · 💬 121
-- [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · ⬆️ 462 · 💬 521
-- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · ⬆️ 381 · 💬 116
+- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · ⬆️ 390 · 💬 117
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 14:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 18:27 UTC</sub>
 
 <!--DIGEST:END-->
 
