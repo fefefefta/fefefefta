@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1238 · 💬 1154
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 699 · 💬 757
-- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) · ⬆️ 617 · 💬 157
-- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) · ⬆️ 515 · 💬 485
-- [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · ⬆️ 492 · 💬 588
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1337 · 💬 1288
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 804 · 💬 905
+- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) · ⬆️ 634 · 💬 158
+- [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · ⬆️ 493 · 💬 588
+- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) · ⬆️ 478 · 💬 121
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 09:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 14:26 UTC</sub>
 
 <!--DIGEST:END-->
 
