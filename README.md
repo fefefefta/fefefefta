@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1391 · 💬 1351
-- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1016 · 💬 570
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 845 · 💬 1017
-- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) · ⬆️ 656 · 💬 164
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 582 · 💬 383
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1400 · 💬 1360
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1100 · 💬 623
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 856 · 💬 1030
+- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) · ⬆️ 660 · 💬 164
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 641 · 💬 418
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-03 09:45 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-03 14:32 UTC</sub>
 
 <!--DIGEST:END-->
 
