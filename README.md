@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 1783 · 💬 1573
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1407 · 💬 1375
-- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1144 · 💬 656
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 865 · 💬 1039
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 680 · 💬 444
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 1960 · 💬 1783
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1409 · 💬 1377
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1148 · 💬 661
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 867 · 💬 1040
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 681 · 💬 445
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 09:35 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 14:19 UTC</sub>
 
 <!--DIGEST:END-->
 
