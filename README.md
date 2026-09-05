@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2182 · 💬 2008
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 1790 · 💬 1369
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1412 · 💬 1382
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2203 · 💬 2018
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 1883 · 💬 1433
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) · ⬆️ 1412 · 💬 1383
 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1154 · 💬 662
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 871 · 💬 1045
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) · ⬆️ 872 · 💬 1046
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-05 12:41 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-05 16:02 UTC</sub>
 
 <!--DIGEST:END-->
 
