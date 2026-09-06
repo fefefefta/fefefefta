@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2235 · 💬 2046
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2189 · 💬 1548
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2240 · 💬 2048
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2220 · 💬 1561
 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · ⬆️ 1156 · 💬 664
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 755 · 💬 491
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 689 · 💬 449
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 758 · 💬 494
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 690 · 💬 449
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 10:52 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 14:08 UTC</sub>
 
 <!--DIGEST:END-->
 
