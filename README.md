@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2262 · 💬 1576
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2245 · 💬 2054
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 763 · 💬 496
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) · ⬆️ 688 · 💬 226
-- [Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007) · ⬆️ 467 · 💬 186
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2264 · 💬 1579
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2246 · 💬 2055
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 763 · 💬 497
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) · ⬆️ 688 · 💬 227
+- [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · ⬆️ 491 · 💬 353
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 21:18 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 23:51 UTC</sub>
 
 <!--DIGEST:END-->
 
