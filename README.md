@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2243 · 💬 2051
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2242 · 💬 1568
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 760 · 💬 496
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2253 · 💬 1573
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2244 · 💬 2051
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 761 · 💬 496
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) · ⬆️ 690 · 💬 450
 - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) · ⬆️ 688 · 💬 226
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 17:00 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-06 19:08 UTC</sub>
 
 <!--DIGEST:END-->
 
