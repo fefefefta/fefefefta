@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2269 · 💬 1579
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2247 · 💬 2060
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 763 · 💬 501
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) · ⬆️ 689 · 💬 227
-- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 595 · 💬 391
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2275 · 💬 1584
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) · ⬆️ 2251 · 💬 2063
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 764 · 💬 505
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) · ⬆️ 689 · 💬 228
+- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 653 · 💬 408
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 04:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 10:13 UTC</sub>
 
 <!--DIGEST:END-->
 
