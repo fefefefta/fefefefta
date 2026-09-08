@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 770 · 💬 509
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 758 · 💬 540
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 918 · 💬 740
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 789 · 💬 559
 - [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 725 · 💬 433
-- [A/I shuts down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · ⬆️ 634 · 💬 547
-- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · ⬆️ 599 · 💬 204
+- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · ⬆️ 636 · 💬 215
+- [A/I shuts down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · ⬆️ 634 · 💬 549
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-08 18:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-08 21:49 UTC</sub>
 
 <!--DIGEST:END-->
 
