@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/) · ⬆️ 2289 · 💬 1594
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 769 · 💬 509
-- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 723 · 💬 431
-- [A/I shuts down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · ⬆️ 629 · 💬 538
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 512 · 💬 357
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · ⬆️ 770 · 💬 509
+- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 723 · 💬 432
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 663 · 💬 480
+- [A/I shuts down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · ⬆️ 632 · 💬 541
+- [An Alien Mind](https://openai.com/index/an-alien-mind/) · ⬆️ 481 · 💬 457
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-08 11:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-08 15:05 UTC</sub>
 
 <!--DIGEST:END-->
 
