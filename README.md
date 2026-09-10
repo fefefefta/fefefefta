@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1324 · 💬 1097
-- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 894 · 💬 368
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1325 · 💬 1105
+- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 974 · 💬 389
 - [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 840 · 💬 592
 - [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · ⬆️ 728 · 💬 433
-- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · ⬆️ 701 · 💬 234
+- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · ⬆️ 702 · 💬 235
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-09 21:40 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 00:12 UTC</sub>
 
 <!--DIGEST:END-->
 
