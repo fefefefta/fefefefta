@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1337 · 💬 1132
-- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1181 · 💬 447
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 844 · 💬 599
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 838 · 💬 780
-- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) · ⬆️ 725 · 💬 1004
+- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1186 · 💬 448
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 852 · 💬 792
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 845 · 💬 599
+- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) · ⬆️ 726 · 💬 1006
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 14:23 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 18:29 UTC</sub>
 
 <!--DIGEST:END-->
 
