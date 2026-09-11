@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1335 · 💬 1129
-- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1160 · 💬 445
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 843 · 💬 598
-- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) · ⬆️ 721 · 💬 1000
-- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · ⬆️ 710 · 💬 237
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1336 · 💬 1131
+- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1169 · 💬 447
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 844 · 💬 599
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 750 · 💬 689
+- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) · ⬆️ 724 · 💬 1000
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 00:08 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 04:35 UTC</sub>
 
 <!--DIGEST:END-->
 
