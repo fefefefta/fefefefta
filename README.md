@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1195 · 💬 448
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1151 · 💬 1097
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 904 · 💬 540
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 863 · 💬 813
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 811 · 💬 379
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1172 · 💬 1124
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 915 · 💬 567
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 864 · 💬 813
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 815 · 💬 380
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 19:17 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 22:14 UTC</sub>
 
 <!--DIGEST:END-->
 
