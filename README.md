@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1338 · 💬 1133
-- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1190 · 💬 448
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 857 · 💬 805
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 846 · 💬 600
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 766 · 💬 757
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1338 · 💬 1134
+- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1191 · 💬 448
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 900 · 💬 869
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 861 · 💬 808
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 788 · 💬 366
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 04:36 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 09:17 UTC</sub>
 
 <!--DIGEST:END-->
 
