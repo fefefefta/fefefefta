@@ -18,11 +18,11 @@
 
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1338 · 💬 1133
 - [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1190 · 💬 448
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 856 · 💬 804
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 845 · 💬 600
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 742 · 💬 359
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 857 · 💬 805
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · ⬆️ 846 · 💬 600
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 766 · 💬 757
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 00:15 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 04:36 UTC</sub>
 
 <!--DIGEST:END-->
 
