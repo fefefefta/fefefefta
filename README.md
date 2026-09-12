@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) · ⬆️ 1339 · 💬 1134
-- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1194 · 💬 448
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1105 · 💬 1048
+- [Claude, change the “Add to Cart” button to blue](https://opusfived.dev/) · ⬆️ 1195 · 💬 448
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1151 · 💬 1097
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 904 · 💬 540
 - [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 863 · 💬 813
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 861 · 💬 504
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 811 · 💬 379
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 16:17 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-12 19:17 UTC</sub>
 
 <!--DIGEST:END-->
 
