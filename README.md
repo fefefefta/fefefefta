@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1196 · 💬 1174
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 934 · 💬 582
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1201 · 💬 1184
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 940 · 💬 585
 - [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 866 · 💬 813
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 833 · 💬 387
-- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) · ⬆️ 667 · 💬 647
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 837 · 💬 387
+- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) · ⬆️ 668 · 💬 658
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-13 10:13 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-13 14:22 UTC</sub>
 
 <!--DIGEST:END-->
 
