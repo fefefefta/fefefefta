@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1224 · 💬 1201
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 954 · 💬 594
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 866 · 💬 816
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 849 · 💬 392
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 761 · 💬 441
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1228 · 💬 1207
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1055 · 💬 468
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 955 · 💬 597
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 852 · 💬 392
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 780 · 💬 443
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 06:14 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 12:45 UTC</sub>
 
 <!--DIGEST:END-->
 
