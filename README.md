@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1220 · 💬 1201
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 954 · 💬 592
+- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1224 · 💬 1201
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 954 · 💬 594
 - [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) · ⬆️ 866 · 💬 816
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 847 · 💬 391
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 746 · 💬 434
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850) · ⬆️ 849 · 💬 392
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 761 · 💬 441
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 01:01 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 06:14 UTC</sub>
 
 <!--DIGEST:END-->
 
