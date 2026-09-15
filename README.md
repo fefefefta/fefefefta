@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [A misalignment of AI in mathematics](https://mathandai.org/) · ⬆️ 1232 · 💬 1213
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1193 · 💬 563
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1201 · 💬 564
 - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) · ⬆️ 965 · 💬 605
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 809 · 💬 450
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) · ⬆️ 651 · 💬 687
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 809 · 💬 451
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) · ⬆️ 652 · 💬 690
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) · ⬆️ 581 · 💬 399
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 13:30 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 18:10 UTC</sub>
 
 <!--DIGEST:END-->
 
