@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1749 · 💬 467
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1211 · 💬 567
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 810 · 💬 454
-- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 657 · 💬 229
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1777 · 💬 472
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1212 · 💬 567
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 810 · 💬 455
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 668 · 💬 232
 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) · ⬆️ 654 · 💬 690
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 18:52 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 22:08 UTC</sub>
 
 <!--DIGEST:END-->
 
