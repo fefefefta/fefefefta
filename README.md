@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1388 · 💬 394
 - [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1208 · 💬 567
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 984 · 💬 312
 - [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · ⬆️ 810 · 💬 452
 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) · ⬆️ 653 · 💬 690
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) · ⬆️ 581 · 💬 399
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 614 · 💬 211
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 04:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 09:54 UTC</sub>
 
 <!--DIGEST:END-->
 
