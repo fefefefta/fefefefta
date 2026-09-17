@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1855 · 💬 485
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · ⬆️ 1215 · 💬 568
-- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 677 · 💬 248
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 662 · 💬 134
-- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) · ⬆️ 578 · 💬 201
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1860 · 💬 489
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 678 · 💬 251
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 664 · 💬 136
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) · ⬆️ 580 · 💬 204
+- [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) · ⬆️ 509 · 💬 420
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-17 20:18 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-17 23:32 UTC</sub>
 
 <!--DIGEST:END-->
 
