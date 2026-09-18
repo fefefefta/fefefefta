@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1863 · 💬 491
-- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 678 · 💬 251
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 670 · 💬 136
-- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) · ⬆️ 581 · 💬 204
-- [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) · ⬆️ 509 · 💬 420
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1869 · 💬 491
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) · ⬆️ 678 · 💬 252
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 674 · 💬 139
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) · ⬆️ 582 · 💬 204
+- [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) · ⬆️ 509 · 💬 421
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 04:38 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 09:42 UTC</sub>
 
 <!--DIGEST:END-->
 
