@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1890 · 💬 496
-- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 857 · 💬 754
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 689 · 💬 143
-- [Bend – a language that blocks AI mistakes via proof and runs on GPUs](https://bend-lang.com/) · ⬆️ 589 · 💬 302
-- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) · ⬆️ 582 · 💬 204
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · ⬆️ 1895 · 💬 496
+- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 876 · 💬 773
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 690 · 💬 143
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 601 · 💬 212
+- [Bend – a language that blocks AI mistakes via proof and runs on GPUs](https://bend-lang.com/) · ⬆️ 595 · 💬 304
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-19 00:18 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-19 05:50 UTC</sub>
 
 <!--DIGEST:END-->
 
