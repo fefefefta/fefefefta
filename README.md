@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1503 · 💬 807
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1170 · 💬 284
-- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 922 · 💬 817
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 718 · 💬 270
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1608 · 💬 851
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1227 · 💬 293
+- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 930 · 💬 819
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 721 · 💬 271
 - [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) · ⬆️ 694 · 💬 143
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-20 06:12 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-20 11:18 UTC</sub>
 
 <!--DIGEST:END-->
 
