@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1870 · 💬 948
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1333 · 💬 314
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 737 · 💬 276
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 731 · 💬 198
-- [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) · ⬆️ 658 · 💬 257
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1870 · 💬 950
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1336 · 💬 314
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 973 · 💬 708
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 917 · 💬 486
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 733 · 💬 198
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 18:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 22:05 UTC</sub>
 
 <!--DIGEST:END-->
 
