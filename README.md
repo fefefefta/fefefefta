@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1854 · 💬 942
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1326 · 💬 313
-- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 942 · 💬 825
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 734 · 💬 275
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 722 · 💬 193
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1860 · 💬 942
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1328 · 💬 314
+- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 943 · 💬 826
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 735 · 💬 275
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 725 · 💬 195
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 00:04 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 04:50 UTC</sub>
 
 <!--DIGEST:END-->
 
