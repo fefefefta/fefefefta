@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1860 · 💬 942
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1328 · 💬 314
-- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · ⬆️ 943 · 💬 826
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 735 · 💬 275
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 725 · 💬 195
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1866 · 💬 944
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1330 · 💬 314
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · ⬆️ 736 · 💬 276
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 727 · 💬 195
+- [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) · ⬆️ 657 · 💬 257
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 04:50 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 09:55 UTC</sub>
 
 <!--DIGEST:END-->
 
