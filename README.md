@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1870 · 💬 950
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1336 · 💬 314
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 973 · 💬 708
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 917 · 💬 486
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 733 · 💬 198
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1871 · 💬 950
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1337 · 💬 314
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 1147 · 💬 787
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1107 · 💬 575
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 734 · 💬 198
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 22:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-23 00:29 UTC</sub>
 
 <!--DIGEST:END-->
 
