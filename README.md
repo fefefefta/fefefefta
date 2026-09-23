@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) · ⬆️ 1875 · 💬 950
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 1394 · 💬 881
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1382 · 💬 669
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) · ⬆️ 1338 · 💬 314
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 734 · 💬 198
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 1583 · 💬 982
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1574 · 💬 758
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 735 · 💬 198
+- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) · ⬆️ 688 · 💬 348
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) · ⬆️ 672 · 💬 389
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-23 05:56 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-23 11:30 UTC</sub>
 
 <!--DIGEST:END-->
 
