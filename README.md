@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 1779 · 💬 1102
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1750 · 💬 831
-- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) · ⬆️ 912 · 💬 518
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) · ⬆️ 739 · 💬 198
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) · ⬆️ 727 · 💬 440
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) · ⬆️ 1785 · 💬 1110
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1756 · 💬 832
+- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) · ⬆️ 931 · 💬 526
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) · ⬆️ 731 · 💬 440
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · ⬆️ 724 · 💬 728
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-24 09:57 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-24 15:02 UTC</sub>
 
 <!--DIGEST:END-->
 
