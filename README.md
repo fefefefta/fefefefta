@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · ⬆️ 1773 · 💬 851
-- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) · ⬆️ 961 · 💬 547
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · ⬆️ 775 · 💬 798
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · ⬆️ 776 · 💬 798
 - [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/) · ⬆️ 682 · 💬 212
-- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · ⬆️ 627 · 💬 390
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 654 · 💬 416
+- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · ⬆️ 628 · 💬 390
+- [Linux support is coming to Snapdragon X2 series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) · ⬆️ 620 · 💬 268
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-26 17:07 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-26 19:49 UTC</sub>
 
 <!--DIGEST:END-->
 
