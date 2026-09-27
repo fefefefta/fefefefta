@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · ⬆️ 780 · 💬 799
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 726 · 💬 457
-- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · ⬆️ 628 · 💬 391
-- [Linux support is coming to Snapdragon X2 series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) · ⬆️ 621 · 💬 270
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 597 · 💬 145
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 734 · 💬 461
+- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · ⬆️ 630 · 💬 393
+- [Linux support is coming to Snapdragon X2 series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) · ⬆️ 621 · 💬 271
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 599 · 💬 145
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 568 · 💬 535
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-27 13:55 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-27 18:20 UTC</sub>
 
 <!--DIGEST:END-->
 
