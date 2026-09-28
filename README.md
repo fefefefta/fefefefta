@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 746 · 💬 467
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 621 · 💬 606
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 746 · 💬 468
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 626 · 💬 611
 - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 609 · 💬 145
-- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 542 · 💬 235
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) · ⬆️ 497 · 💬 885
+- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 573 · 💬 244
+- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) · ⬆️ 498 · 💬 888
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 15:23 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 21:57 UTC</sub>
 
 <!--DIGEST:END-->
 
