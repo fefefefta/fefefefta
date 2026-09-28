@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 742 · 💬 463
-- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · ⬆️ 631 · 💬 393
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 610 · 💬 600
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 608 · 💬 145
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) · ⬆️ 496 · 💬 883
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 746 · 💬 467
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 621 · 💬 606
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 609 · 💬 145
+- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 542 · 💬 235
+- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) · ⬆️ 497 · 💬 885
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 06:49 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 15:23 UTC</sub>
 
 <!--DIGEST:END-->
 
