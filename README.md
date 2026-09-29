@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 747 · 💬 468
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 626 · 💬 612
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 609 · 💬 145
-- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 583 · 💬 401
-- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 578 · 💬 247
+- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 759 · 💬 505
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 750 · 💬 468
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 626 · 💬 613
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 613 · 💬 145
+- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 581 · 💬 247
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-29 01:54 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-29 08:25 UTC</sub>
 
 <!--DIGEST:END-->
 
