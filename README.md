@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 850 · 💬 581
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 751 · 💬 470
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 626 · 💬 615
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) · ⬆️ 613 · 💬 145
-- [Ember-1](https://fireworks.ai/blog/ember-1) · ⬆️ 582 · 💬 248
+- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 866 · 💬 596
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) · ⬆️ 752 · 💬 471
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 626 · 💬 616
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 609 · 💬 530
+- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · ⬆️ 589 · 💬 257
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-29 15:47 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-29 20:44 UTC</sub>
 
 <!--DIGEST:END-->
 
