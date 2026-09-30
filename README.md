@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 995 · 💬 870
-- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 878 · 💬 608
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 676 · 💬 532
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 627 · 💬 620
-- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · ⬆️ 613 · 💬 270
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1037 · 💬 918
+- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 879 · 💬 609
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 727 · 💬 615
+- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 627 · 💬 621
+- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · ⬆️ 618 · 💬 275
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 13:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 19:16 UTC</sub>
 
 <!--DIGEST:END-->
 
