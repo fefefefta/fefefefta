@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1050 · 💬 931
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1004 · 💬 675
-- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 881 · 💬 613
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 750 · 💬 630
-- [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · ⬆️ 627 · 💬 622
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1355 · 💬 869
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1053 · 💬 936
+- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 882 · 💬 614
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 752 · 💬 631
+- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · ⬆️ 620 · 💬 277
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 02:07 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 08:52 UTC</sub>
 
 <!--DIGEST:END-->
 
