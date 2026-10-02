@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1653 · 💬 1136
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1061 · 💬 947
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1677 · 💬 1159
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1062 · 💬 948
 - [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) · ⬆️ 883 · 💬 614
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 763 · 💬 639
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 764 · 💬 640
 - [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · ⬆️ 626 · 💬 277
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-02 08:27 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-02 15:45 UTC</sub>
 
 <!--DIGEST:END-->
 
