@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1688 · 💬 1175
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 622 · 💬 215
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 560 · 💬 128
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1690 · 💬 1176
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 623 · 💬 215
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 563 · 💬 128
+- [FLUX 3 Image](https://bfl.ai/models/flux-3-image) · ⬆️ 418 · 💬 92
 - [The AI Race Just Got Awkward](https://insufferable.dev/posts/the-ai-race-just-got-awkward/) · ⬆️ 412 · 💬 462
-- [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) · ⬆️ 407 · 💬 372
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 17:14 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 19:49 UTC</sub>
 
 <!--DIGEST:END-->
 
