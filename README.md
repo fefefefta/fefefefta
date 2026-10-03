@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1685 · 💬 1173
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1062 · 💬 951
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1687 · 💬 1174
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1063 · 💬 952
 - [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 764 · 💬 644
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 621 · 💬 215
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 622 · 💬 215
 - [DraftKings is using AI to behaviorally target chronic gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) · ⬆️ 570 · 💬 429
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 06:28 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 12:30 UTC</sub>
 
 <!--DIGEST:END-->
 
