@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1687 · 💬 1174
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) · ⬆️ 1063 · 💬 952
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) · ⬆️ 764 · 💬 644
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1688 · 💬 1175
 - [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 622 · 💬 215
-- [DraftKings is using AI to behaviorally target chronic gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) · ⬆️ 570 · 💬 429
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 560 · 💬 128
+- [The AI Race Just Got Awkward](https://insufferable.dev/posts/the-ai-race-just-got-awkward/) · ⬆️ 412 · 💬 462
+- [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) · ⬆️ 407 · 💬 372
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 12:30 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-03 17:14 UTC</sub>
 
 <!--DIGEST:END-->
 
