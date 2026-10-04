@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · ⬆️ 1697 · 💬 1185
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 647 · 💬 322
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 633 · 💬 217
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 653 · 💬 324
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 634 · 💬 217
 - [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 575 · 💬 128
+- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 453 · 💬 761
 - [FLUX 3 Image](https://bfl.ai/models/flux-3-image) · ⬆️ 434 · 💬 97
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-04 19:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-04 23:06 UTC</sub>
 
 <!--DIGEST:END-->
 
