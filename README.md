@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 655 · 💬 326
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 634 · 💬 217
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 576 · 💬 128
-- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 457 · 💬 773
-- [FLUX 3 Image](https://bfl.ai/models/flux-3-image) · ⬆️ 435 · 💬 97
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 669 · 💬 327
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) · ⬆️ 636 · 💬 217
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 580 · 💬 128
+- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 473 · 💬 790
+- [FLUX 3 Image](https://bfl.ai/models/flux-3-image) · ⬆️ 436 · 💬 97
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 01:58 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 08:58 UTC</sub>
 
 <!--DIGEST:END-->
 
