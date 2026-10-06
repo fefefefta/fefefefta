@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 690 · 💬 330
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) · ⬆️ 583 · 💬 131
-- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 483 · 💬 805
-- [FLUX 3 Image](https://bfl.ai/models/flux-3-image) · ⬆️ 437 · 💬 96
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 695 · 💬 334
+- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 514 · 💬 445
+- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 486 · 💬 808
 - [Aleph Alpha Kolibri: How the sovereign German LLM works](https://tej.as/blog/aleph-alpha-kolibri) · ⬆️ 420 · 💬 12
+- [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) · ⬆️ 410 · 💬 822
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 18:23 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 00:46 UTC</sub>
 
 <!--DIGEST:END-->
 
