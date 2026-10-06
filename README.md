@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 696 · 💬 338
-- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 693 · 💬 536
-- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 487 · 💬 815
-- [Aleph Alpha Kolibri: How the sovereign German LLM works](https://tej.as/blog/aleph-alpha-kolibri) · ⬆️ 420 · 💬 12
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 415 · 💬 130
+- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 767 · 💬 597
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 698 · 💬 338
+- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0) · ⬆️ 568 · 💬 319
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 497 · 💬 160
+- [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · ⬆️ 488 · 💬 815
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 07:31 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 15:07 UTC</sub>
 
 <!--DIGEST:END-->
 
