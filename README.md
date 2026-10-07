@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 1900 · 💬 1143
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1034 · 💬 1031
-- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 819 · 💬 662
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 546 · 💬 170
-- [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/) · ⬆️ 519 · 💬 5
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 1975 · 💬 1180
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1176 · 💬 1327
+- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 822 · 💬 666
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 549 · 💬 172
+- [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/) · ⬆️ 521 · 💬 5
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 13:16 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 19:21 UTC</sub>
 
 <!--DIGEST:END-->
 
