@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 1543 · 💬 943
-- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 806 · 💬 645
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 700 · 💬 336
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 540 · 💬 167
-- [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/) · ⬆️ 518 · 💬 5
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 1677 · 💬 1001
+- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 814 · 💬 656
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · ⬆️ 701 · 💬 336
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 692 · 💬 635
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 545 · 💬 168
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 23:48 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 05:54 UTC</sub>
 
 <!--DIGEST:END-->
 
