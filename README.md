@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 1994 · 💬 1189
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1222 · 💬 1395
-- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 824 · 💬 672
-- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 635 · 💬 319
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · ⬆️ 549 · 💬 174
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 2008 · 💬 1193
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1265 · 💬 1432
+- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · ⬆️ 826 · 💬 674
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 790 · 💬 389
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 570 · 💬 296
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 00:10 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 05:57 UTC</sub>
 
 <!--DIGEST:END-->
 
