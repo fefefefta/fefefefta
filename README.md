@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) · ⬆️ 2036 · 💬 1211
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1335 · 💬 1521
-- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 1043 · 💬 486
-- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 753 · 💬 458
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1341 · 💬 1524
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 1044 · 💬 486
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 754 · 💬 458
 - [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/) · ⬆️ 522 · 💬 5
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-10 00:01 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-10 05:46 UTC</sub>
 
 <!--DIGEST:END-->
 
