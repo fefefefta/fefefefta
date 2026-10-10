@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1347 · 💬 1526
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · ⬆️ 1348 · 💬 1526
 - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 1045 · 💬 488
 - [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 755 · 💬 458
-- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 428 · 💬 300
-- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 419 · 💬 335
+- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 429 · 💬 300
+- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 425 · 💬 339
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-10 17:50 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-10 21:39 UTC</sub>
 
 <!--DIGEST:END-->
 
