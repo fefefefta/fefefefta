@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) · ⬆️ 1045 · 💬 488
-- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 755 · 💬 458
-- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 431 · 💬 343
-- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 429 · 💬 300
-- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 412 · 💬 188
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) · ⬆️ 756 · 💬 458
+- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 436 · 💬 347
+- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 429 · 💬 301
+- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 413 · 💬 188
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-11 00:58 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-11 07:09 UTC</sub>
 
 <!--DIGEST:END-->
 
