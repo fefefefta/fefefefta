@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 442 · 💬 353
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 432 · 💬 97
-- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 431 · 💬 302
-- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 414 · 💬 192
-- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) · ⬆️ 390 · 💬 298
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 451 · 💬 102
+- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 442 · 💬 354
+- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 431 · 💬 301
+- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 414 · 💬 195
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) · ⬆️ 394 · 💬 299
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-11 18:51 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-11 22:51 UTC</sub>
 
 <!--DIGEST:END-->
 
