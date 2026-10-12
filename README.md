@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 475 · 💬 690
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 459 · 💬 103
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 660 · 💬 960
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 468 · 💬 105
 - [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 443 · 💬 356
-- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · ⬆️ 432 · 💬 301
-- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 416 · 💬 196
+- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 417 · 💬 196
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) · ⬆️ 402 · 💬 305
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-12 10:42 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-12 20:16 UTC</sub>
 
 <!--DIGEST:END-->
 
