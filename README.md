@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 713 · 💬 1037
-- [Muse Wonder](https://research.meta.ai/blog/muse-wonder) · ⬆️ 654 · 💬 367
-- [GLM-Legal](https://z.ai/blog/glm-legal) · ⬆️ 653 · 💬 353
-- [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195) · ⬆️ 590 · 💬 286
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 579 · 💬 465
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 858 · 💬 675
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 715 · 💬 1044
+- [GLM-Legal](https://z.ai/blog/glm-legal) · ⬆️ 661 · 💬 358
+- [Muse Wonder](https://research.meta.ai/blog/muse-wonder) · ⬆️ 657 · 💬 371
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 637 · 💬 504
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-13 17:34 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-13 22:40 UTC</sub>
 
 <!--DIGEST:END-->
 
