@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 660 · 💬 960
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 468 · 💬 105
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 679 · 💬 998
+- [Muse Wonder](https://research.meta.ai/blog/muse-wonder) · ⬆️ 527 · 💬 299
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) · ⬆️ 471 · 💬 105
+- [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195) · ⬆️ 466 · 💬 238
 - [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) · ⬆️ 443 · 💬 356
-- [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · ⬆️ 417 · 💬 196
-- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) · ⬆️ 402 · 💬 305
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-12 20:16 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-13 02:01 UTC</sub>
 
 <!--DIGEST:END-->
 
