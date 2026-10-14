@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1220 · 💬 859
-- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 725 · 💬 707
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 716 · 💬 1046
-- [GLM-Legal](https://z.ai/blog/glm-legal) · ⬆️ 667 · 💬 359
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 664 · 💬 530
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1360 · 💬 962
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 822 · 💬 878
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 729 · 💬 565
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 719 · 💬 1049
+- [GLM-Legal](https://z.ai/blog/glm-legal) · ⬆️ 669 · 💬 360
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 07:33 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 13:40 UTC</sub>
 
 <!--DIGEST:END-->
 
