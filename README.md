@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1448 · 💬 1029
-- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 911 · 💬 544
-- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 879 · 💬 988
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 778 · 💬 598
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 722 · 💬 1060
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1454 · 💬 1034
+- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 933 · 💬 593
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 883 · 💬 994
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · ⬆️ 781 · 💬 600
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) · ⬆️ 722 · 💬 1062
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-15 11:22 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-15 16:56 UTC</sub>
 
 <!--DIGEST:END-->
 
