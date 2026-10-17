@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1461 · 💬 1042
-- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 946 · 💬 619
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 902 · 💬 467
+- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 947 · 💬 619
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 907 · 💬 468
 - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 889 · 💬 1010
-- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 803 · 💬 325
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 878 · 💬 327
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 05:33 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 10:37 UTC</sub>
 
 <!--DIGEST:END-->
 
