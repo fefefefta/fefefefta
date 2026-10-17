@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1462 · 💬 1042
-- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 947 · 💬 619
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 935 · 💬 340
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 911 · 💬 471
-- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 890 · 💬 1010
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 978 · 💬 356
+- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 947 · 💬 620
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 912 · 💬 471
+- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 806 · 💬 330
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) · ⬆️ 653 · 💬 543
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 14:11 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 17:07 UTC</sub>
 
 <!--DIGEST:END-->
 
