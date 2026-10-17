@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1000 · 💬 371
-- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 947 · 💬 620
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1014 · 💬 372
+- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 948 · 💬 620
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 913 · 💬 474
-- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 808 · 💬 330
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) · ⬆️ 654 · 💬 543
+- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 810 · 💬 331
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 618 · 💬 536
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 19:21 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 22:15 UTC</sub>
 
 <!--DIGEST:END-->
 
