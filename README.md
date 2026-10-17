@@ -18,11 +18,11 @@
 
 - [Gemini 4 Argon](https://deepmind.google/models/gemini/) · ⬆️ 1461 · 💬 1040
 - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 946 · 💬 619
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 899 · 💬 465
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 900 · 💬 465
 - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) · ⬆️ 889 · 💬 1010
-- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 793 · 💬 323
+- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 795 · 💬 324
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-16 22:03 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 00:26 UTC</sub>
 
 <!--DIGEST:END-->
 
