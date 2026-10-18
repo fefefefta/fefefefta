@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1036 · 💬 380
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1043 · 💬 385
 - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · ⬆️ 948 · 💬 620
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 914 · 💬 477
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 856 · 💬 652
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 903 · 💬 675
 - [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 814 · 💬 333
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-18 09:32 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-18 13:58 UTC</sub>
 
 <!--DIGEST:END-->
 
