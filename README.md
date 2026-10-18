@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1047 · 💬 387
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 929 · 💬 700
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 915 · 💬 477
-- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 819 · 💬 333
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) · ⬆️ 616 · 💬 140
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1048 · 💬 388
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 934 · 💬 704
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) · ⬆️ 916 · 💬 477
+- [Neural networks are clean](https://already-clean.goodfire.com/) · ⬆️ 821 · 💬 335
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) · ⬆️ 620 · 💬 141
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-18 20:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-18 23:08 UTC</sub>
 
 <!--DIGEST:END-->
 
