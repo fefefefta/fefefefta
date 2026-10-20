@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) · ⬆️ 1060 · 💬 389
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 953 · 💬 716
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) · ⬆️ 648 · 💬 146
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · ⬆️ 954 · 💬 717
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) · ⬆️ 650 · 💬 147
+- [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · ⬆️ 631 · 💬 362
 - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/) · ⬆️ 625 · 💬 574
-- [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · ⬆️ 624 · 💬 357
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-19 23:36 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-20 04:43 UTC</sub>
 
 <!--DIGEST:END-->
 
