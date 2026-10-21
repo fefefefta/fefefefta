@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2262 · 💬 864
-- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · ⬆️ 729 · 💬 209
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/) · ⬆️ 699 · 💬 172
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2287 · 💬 875
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/) · ⬆️ 749 · 💬 194
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · ⬆️ 735 · 💬 212
 - [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · ⬆️ 647 · 💬 373
-- [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) · ⬆️ 617 · 💬 120
+- [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) · ⬆️ 618 · 💬 122
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-21 11:42 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-21 17:07 UTC</sub>
 
 <!--DIGEST:END-->
 
