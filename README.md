@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2333 · 💬 889
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2336 · 💬 890
 - [Voxtral 3](https://mistral.ai/news/voxtral-3/) · ⬆️ 768 · 💬 200
-- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · ⬆️ 740 · 💬 218
-- [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · ⬆️ 648 · 💬 372
-- [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) · ⬆️ 620 · 💬 127
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · ⬆️ 741 · 💬 218
+- [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) · ⬆️ 579 · 💬 543
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 566 · 💬 175
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 07:26 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 13:21 UTC</sub>
 
 <!--DIGEST:END-->
 
