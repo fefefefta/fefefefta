@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2341 · 💬 891
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2343 · 💬 891
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 822 · 💬 492
 - [Voxtral 3](https://mistral.ai/news/voxtral-3/) · ⬆️ 768 · 💬 201
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 686 · 💬 433
-- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 614 · 💬 593
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 609 · 💬 182
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 624 · 💬 598
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 619 · 💬 186
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-24 00:38 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-24 05:47 UTC</sub>
 
 <!--DIGEST:END-->
 
