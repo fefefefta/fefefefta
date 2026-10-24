@@ -18,11 +18,11 @@
 
 - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) · ⬆️ 2341 · 💬 891
 - [Voxtral 3](https://mistral.ai/news/voxtral-3/) · ⬆️ 768 · 💬 201
-- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · ⬆️ 741 · 💬 219
-- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 609 · 💬 588
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 607 · 💬 181
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 686 · 💬 433
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 614 · 💬 593
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 609 · 💬 182
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 21:26 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-24 00:38 UTC</sub>
 
 <!--DIGEST:END-->
 
