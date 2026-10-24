@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1034 · 💬 629
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1055 · 💬 643
 - [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 645 · 💬 618
-- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) · ⬆️ 636 · 💬 715
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 632 · 💬 188
-- [Claude Duet](https://claude.com/product/claude-duet) · ⬆️ 565 · 💬 532
+- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) · ⬆️ 643 · 💬 728
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 636 · 💬 188
+- [Claude Duet](https://claude.com/product/claude-duet) · ⬆️ 565 · 💬 533
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-24 18:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-24 20:44 UTC</sub>
 
 <!--DIGEST:END-->
 
