@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1066 · 💬 663
-- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) · ⬆️ 654 · 💬 739
-- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 650 · 💬 624
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 642 · 💬 192
-- [Claude Duet](https://claude.com/product/claude-duet) · ⬆️ 566 · 💬 534
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1070 · 💬 665
+- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) · ⬆️ 659 · 💬 743
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · ⬆️ 652 · 💬 628
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) · ⬆️ 645 · 💬 192
+- [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) · ⬆️ 588 · 💬 624
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-25 11:19 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-25 16:10 UTC</sub>
 
 <!--DIGEST:END-->
 
