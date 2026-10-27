@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · ⬆️ 1587 · 💬 1518
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1090 · 💬 675
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 804 · 💬 354
-- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) · ⬆️ 672 · 💬 94
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) · ⬆️ 657 · 💬 270
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · ⬆️ 1661 · 💬 1601
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) · ⬆️ 1091 · 💬 675
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 1027 · 💬 567
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) · ⬆️ 775 · 💬 105
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) · ⬆️ 704 · 💬 256
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 07:46 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 14:25 UTC</sub>
 
 <!--DIGEST:END-->
 
