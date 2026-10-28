@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · ⬆️ 1687 · 💬 1646
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 1124 · 💬 655
-- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) · ⬆️ 822 · 💬 109
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) · ⬆️ 774 · 💬 280
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · ⬆️ 1693 · 💬 1656
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 1134 · 💬 662
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) · ⬆️ 829 · 💬 111
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) · ⬆️ 779 · 💬 287
 - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) · ⬆️ 666 · 💬 272
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 23:44 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 05:34 UTC</sub>
 
 <!--DIGEST:END-->
 
