@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · ⬆️ 1703 · 💬 1675
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 1153 · 💬 701
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1021 · 💬 295
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 998 · 💬 793
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1206 · 💬 339
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · ⬆️ 1154 · 💬 702
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 1001 · 💬 796
 - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) · ⬆️ 852 · 💬 116
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-29 21:46 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-30 01:55 UTC</sub>
 
 <!--DIGEST:END-->
 
