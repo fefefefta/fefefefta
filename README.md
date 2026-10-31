@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1697 · 💬 436
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1705 · 💬 438
 - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 1013 · 💬 801
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 923 · 💬 537
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 958 · 💬 544
 - [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 655 · 💬 17
-- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 610 · 💬 458
+- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 634 · 💬 467
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-31 13:36 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-31 18:30 UTC</sub>
 
 <!--DIGEST:END-->
 
