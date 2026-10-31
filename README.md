@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1676 · 💬 435
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1689 · 💬 436
 - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 1011 · 💬 801
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 749 · 💬 472
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 867 · 💬 513
 - [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/) · ⬆️ 684 · 💬 662
-- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 652 · 💬 17
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 655 · 💬 17
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-31 00:44 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-31 06:57 UTC</sub>
 
 <!--DIGEST:END-->
 
