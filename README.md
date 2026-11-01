@@ -18,11 +18,11 @@
 
 - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1706 · 💬 438
 - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 1013 · 💬 801
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 965 · 💬 546
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 969 · 💬 547
 - [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 655 · 💬 17
-- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 644 · 💬 472
+- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 648 · 💬 474
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-31 22:26 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-01 02:10 UTC</sub>
 
 <!--DIGEST:END-->
 
