@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1713 · 💬 438
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · ⬆️ 1014 · 💬 801
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 982 · 💬 549
-- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 659 · 💬 477
-- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 659 · 💬 17
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) · ⬆️ 1715 · 💬 438
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 987 · 💬 551
+- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 662 · 💬 482
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 660 · 💬 17
+- [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) · ⬆️ 605 · 💬 335
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-01 15:58 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-01 20:28 UTC</sub>
 
 <!--DIGEST:END-->
 
