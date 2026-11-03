@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 1005 · 💬 553
-- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 676 · 💬 495
-- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 661 · 💬 17
-- [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) · ⬆️ 487 · 💬 264
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) · ⬆️ 458 · 💬 361
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · ⬆️ 1007 · 💬 553
+- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · ⬆️ 677 · 💬 497
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) · ⬆️ 662 · 💬 17
+- [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) · ⬆️ 488 · 💬 266
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) · ⬆️ 468 · 💬 384
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-02 18:16 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-03 00:59 UTC</sub>
 
 <!--DIGEST:END-->
 
