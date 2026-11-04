@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1040 · 💬 346
-- [Google will turn off search for schools that reject AI](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) · ⬆️ 561 · 💬 411
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 496 · 💬 155
+- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1261 · 💬 416
+- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 614 · 💬 180
+- [Google will turn off search for schools that reject AI](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) · ⬆️ 613 · 💬 431
 - [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) · ⬆️ 492 · 💬 269
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) · ⬆️ 474 · 💬 393
+- [OpenAI seems to be silently re-enabling model training on Codex chats](https://news.ycombinator.com/item?id=50352757) · ⬆️ 476 · 💬 144
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 02:16 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 09:18 UTC</sub>
 
 <!--DIGEST:END-->
 
