@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1484 · 💬 479
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · ⬆️ 1008 · 💬 607
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 715 · 💬 207
-- [Google will turn off search for schools that reject AI](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) · ⬆️ 659 · 💬 460
-- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 617 · 💬 157
+- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1494 · 💬 485
+- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · ⬆️ 1145 · 💬 664
+- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 721 · 💬 212
+- [Google will turn off search for schools that reject AI](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) · ⬆️ 664 · 💬 460
+- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 652 · 💬 168
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 23:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 06:38 UTC</sub>
 
 <!--DIGEST:END-->
 
