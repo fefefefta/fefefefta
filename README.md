@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1583 · 💬 508
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1524 · 💬 494
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1588 · 💬 513
 - [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · ⬆️ 1294 · 💬 749
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 736 · 💬 214
-- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 727 · 💬 200
+- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 728 · 💬 200
+- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) · ⬆️ 636 · 💬 190
+- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) · ⬆️ 615 · 💬 289
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 16:23 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 20:51 UTC</sub>
 
 <!--DIGEST:END-->
 
