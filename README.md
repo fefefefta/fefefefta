@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1554 · 💬 493
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1522 · 💬 494
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1571 · 💬 504
+- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) · ⬆️ 1523 · 💬 494
 - [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · ⬆️ 1292 · 💬 748
 - [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · ⬆️ 736 · 💬 214
-- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 724 · 💬 197
+- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 726 · 💬 199
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 02:45 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 09:59 UTC</sub>
 
 <!--DIGEST:END-->
 
