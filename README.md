@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1596 · 💬 526
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 769 · 💬 417
-- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) · ⬆️ 637 · 💬 191
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) · ⬆️ 585 · 💬 152
-- [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117) · ⬆️ 559 · 💬 691
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1599 · 💬 530
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 824 · 💬 438
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 598 · 💬 386
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) · ⬆️ 592 · 💬 153
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) · ⬆️ 524 · 💬 379
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-08 14:18 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-08 19:38 UTC</sub>
 
 <!--DIGEST:END-->
 
