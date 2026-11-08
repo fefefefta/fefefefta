@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1594 · 💬 520
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · ⬆️ 1298 · 💬 749
-- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) · ⬆️ 730 · 💬 200
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 686 · 💬 372
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1596 · 💬 526
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 769 · 💬 417
 - [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) · ⬆️ 637 · 💬 191
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) · ⬆️ 585 · 💬 152
+- [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117) · ⬆️ 559 · 💬 691
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-08 07:16 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-08 14:18 UTC</sub>
 
 <!--DIGEST:END-->
 
