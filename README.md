@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) · ⬆️ 1609 · 💬 533
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 861 · 💬 458
-- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 857 · 💬 462
-- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 794 · 💬 481
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) · ⬆️ 620 · 💬 415
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 885 · 💬 533
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 882 · 💬 472
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 863 · 💬 460
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 805 · 💬 485
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) · ⬆️ 622 · 💬 421
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-09 16:26 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-10 00:40 UTC</sub>
 
 <!--DIGEST:END-->
 
