@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 980 · 💬 6
-- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 892 · 💬 483
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 865 · 💬 467
-- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 809 · 💬 489
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 808 · 💬 943
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 987 · 💬 6
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 897 · 💬 488
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · ⬆️ 865 · 💬 468
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 862 · 💬 989
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 813 · 💬 489
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-10 16:59 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-10 22:20 UTC</sub>
 
 <!--DIGEST:END-->
 
