@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 995 · 💬 8
-- [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) · ⬆️ 923 · 💬 336
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 909 · 💬 1039
-- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 901 · 💬 496
-- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) · ⬆️ 821 · 💬 492
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 996 · 💬 8
+- [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) · ⬆️ 989 · 💬 359
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 913 · 💬 1042
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · ⬆️ 902 · 💬 496
+- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) · ⬆️ 737 · 💬 148
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-12 01:29 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-12 09:44 UTC</sub>
 
 <!--DIGEST:END-->
 
