@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) · ⬆️ 1033 · 💬 392
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 998 · 💬 8
-- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 978 · 💬 886
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · ⬆️ 920 · 💬 1053
-- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) · ⬆️ 737 · 💬 148
+- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 989 · 💬 901
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 677 · 💬 698
+- [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) · ⬆️ 641 · 💬 626
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) · ⬆️ 565 · 💬 161
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-13 15:19 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-13 21:57 UTC</sub>
 
 <!--DIGEST:END-->
 
