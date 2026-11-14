@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) · ⬆️ 1035 · 💬 392
-- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 997 · 💬 911
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 906 · 💬 542
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 677 · 💬 706
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) · ⬆️ 568 · 💬 558
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1005 · 💬 605
+- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 1001 · 💬 916
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 680 · 💬 706
+- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · ⬆️ 568 · 💬 350
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-14 16:37 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-14 21:26 UTC</sub>
 
 <!--DIGEST:END-->
 
