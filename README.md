@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1069 · 💬 635
-- [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) · ⬆️ 1035 · 💬 392
-- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 1002 · 💬 916
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 680 · 💬 707
-- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · ⬆️ 569 · 💬 352
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1085 · 💬 644
+- [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 1003 · 💬 917
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 681 · 💬 707
+- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · ⬆️ 570 · 💬 352
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) · ⬆️ 569 · 💬 161
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-15 09:17 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-15 17:03 UTC</sub>
 
 <!--DIGEST:END-->
 
