@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1085 · 💬 644
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1094 · 💬 646
 - [Anthropic IPO](https://ipo.anthropic.com/us/) · ⬆️ 1003 · 💬 917
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · ⬆️ 681 · 💬 707
-- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · ⬆️ 570 · 💬 352
-- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) · ⬆️ 569 · 💬 161
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 960 · 💬 533
+- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · ⬆️ 570 · 💬 353
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) · ⬆️ 504 · 💬 165
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-15 17:03 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-15 21:44 UTC</sub>
 
 <!--DIGEST:END-->
 
