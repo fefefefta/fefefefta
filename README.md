@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 1240 · 💬 649
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1111 · 💬 649
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 840 · 💬 452
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) · ⬆️ 527 · 💬 233
-- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn) · ⬆️ 493 · 💬 392
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 1267 · 💬 656
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · ⬆️ 1112 · 💬 649
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 854 · 💬 472
+- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) · ⬆️ 531 · 💬 234
+- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn) · ⬆️ 493 · 💬 393
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-16 20:24 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-17 03:47 UTC</sub>
 
 <!--DIGEST:END-->
 
