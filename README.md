@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · ⬆️ 1298 · 💬 811
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 1281 · 💬 669
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 877 · 💬 485
-- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · ⬆️ 723 · 💬 609
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) · ⬆️ 537 · 💬 235
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · ⬆️ 1333 · 💬 845
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 1281 · 💬 670
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 879 · 💬 485
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 735 · 💬 667
+- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · ⬆️ 726 · 💬 616
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-18 12:59 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-18 21:23 UTC</sub>
 
 <!--DIGEST:END-->
 
