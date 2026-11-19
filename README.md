@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · ⬆️ 1340 · 💬 853
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · ⬆️ 1282 · 💬 671
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 883 · 💬 698
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 879 · 💬 485
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 789 · 💬 700
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · ⬆️ 1345 · 💬 860
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 1001 · 💬 752
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) · ⬆️ 882 · 💬 485
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 801 · 💬 709
+- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · ⬆️ 730 · 💬 623
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 12:57 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 21:28 UTC</sub>
 
 <!--DIGEST:END-->
 
