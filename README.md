@@ -17,12 +17,12 @@
 ### 📰 Hot AI stories on Hacker News
 
 - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · ⬆️ 1345 · 💬 861
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 1020 · 💬 761
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 958 · 💬 1885
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 804 · 💬 710
-- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · ⬆️ 732 · 💬 624
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1090 · 💬 2160
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 1035 · 💬 768
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 809 · 💬 711
+- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · ⬆️ 733 · 💬 624
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 03:07 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 11:28 UTC</sub>
 
 <!--DIGEST:END-->
 
