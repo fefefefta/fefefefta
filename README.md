@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1392 · 💬 281
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1139 · 💬 2319
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1417 · 💬 287
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1140 · 💬 2323
 - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 1059 · 💬 775
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) · ⬆️ 816 · 💬 713
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 668 · 💬 353
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 671 · 💬 359
+- [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) · ⬆️ 616 · 💬 249
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-22 03:05 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-22 11:13 UTC</sub>
 
 <!--DIGEST:END-->
 
