@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1465 · 💬 293
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1141 · 💬 2336
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · ⬆️ 952 · 💬 944
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 679 · 💬 363
-- [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) · ⬆️ 617 · 💬 250
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1473 · 💬 293
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · ⬆️ 1019 · 💬 997
+- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) · ⬆️ 911 · 💬 310
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) · ⬆️ 710 · 💬 286
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 683 · 💬 365
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 07:39 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 20:08 UTC</sub>
 
 <!--DIGEST:END-->
 
