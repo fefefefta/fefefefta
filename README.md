@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1439 · 💬 291
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1140 · 💬 2328
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · ⬆️ 1064 · 💬 775
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 675 · 💬 362
-- [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) · ⬆️ 616 · 💬 249
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · ⬆️ 1452 · 💬 292
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · ⬆️ 1140 · 💬 2331
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · ⬆️ 860 · 💬 868
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) · ⬆️ 678 · 💬 362
+- [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) · ⬆️ 616 · 💬 250
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-22 18:29 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 00:15 UTC</sub>
 
 <!--DIGEST:END-->
 
