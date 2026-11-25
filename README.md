@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) · ⬆️ 1998 · 💬 1176
-- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) · ⬆️ 1173 · 💬 382
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · ⬆️ 1040 · 💬 1008
-- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · ⬆️ 972 · 💬 403
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) · ⬆️ 773 · 💬 315
+- ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) · ⬆️ 2009 · 💬 1197
+- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) · ⬆️ 1175 · 💬 384
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · ⬆️ 1042 · 💬 1009
+- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · ⬆️ 996 · 💬 409
+- [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · ⬆️ 945 · 💬 530
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 09:48 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 19:54 UTC</sub>
 
 <!--DIGEST:END-->
 
