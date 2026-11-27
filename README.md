@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) · ⬆️ 2021 · 💬 1201
-- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) · ⬆️ 1180 · 💬 388
-- [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · ⬆️ 1065 · 💬 606
-- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · ⬆️ 1030 · 💬 413
-- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) · ⬆️ 661 · 💬 525
+- ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) · ⬆️ 2023 · 💬 1205
+- [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · ⬆️ 1067 · 💬 607
+- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · ⬆️ 1032 · 💬 415
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) · ⬆️ 891 · 💬 437
+- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) · ⬆️ 675 · 💬 538
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 04:59 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 14:59 UTC</sub>
 
 <!--DIGEST:END-->
 
