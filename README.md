@@ -16,13 +16,13 @@
 
 ### 📰 Hot AI stories on Hacker News
 
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) · ⬆️ 1087 · 💬 500
-- [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · ⬆️ 1067 · 💬 609
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) · ⬆️ 1114 · 💬 515
+- [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · ⬆️ 1068 · 💬 609
 - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · ⬆️ 1032 · 💬 415
-- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) · ⬆️ 679 · 💬 543
-- [Group chat where your AI talks behind your back](https://construct22.com/) · ⬆️ 672 · 💬 279
+- [Group chat where your AI talks behind your back](https://construct22.com/) · ⬆️ 701 · 💬 288
+- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) · ⬆️ 681 · 💬 545
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 23:24 UTC</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-28 07:40 UTC</sub>
 
 <!--DIGEST:END-->
 
